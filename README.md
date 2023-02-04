@@ -7,14 +7,15 @@ EN: This is a solution to the [QR code component challenge on Frontend Mentor](h
 The challenge is to build out this QR code component and get it looking as close to the design as possible.
 
 ## 🌸 Screenshots
-#### Desktop
-![](./screenshots/finalproject.png)
+#### Desktop 
+![](./screenshots/desktop.png) 
 
 #### Mobile - iPhoneSE
-![](./screenshots/mobile-iPhoneSE.png)
+![](./screenshots/mobile-iPhoneSE.png) 
 
 #### Mobile - Samsung S20 Ultra
 ![](./screenshots/mobile-SamsungS20Ultra.png)
+
 
 ## 🌸 Tecnologias usadas | Technologies used
 - Semantic HTML5 markup
