@@ -16,6 +16,8 @@ The challenge is to build out this QR code component and get it looking as close
 #### Mobile - Samsung S20 Ultra
 ![](./screenshots/mobile-SamsungS20Ultra.png)
 
+## 🌸 Preview site
+[Clique aqui | Click here](https://nicoledpizetta.github.io/qr-code-component-FrontendMentor-challenge/)
 
 ## 🌸 Tecnologias usadas | Technologies used
 - Semantic HTML5 markup
